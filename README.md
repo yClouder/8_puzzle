@@ -5,4 +5,4 @@ The 8-puzzle is a smaller version of the slightly better known 15-puzzle. The pu
 
 The aim of the puzzle is to achieve a given configuration of tiles from a given (different) configuration by sliding the individual tiles around the grid as described above.
 
-I made this algorith as a task in my college.
+I made this algorithm as a task in my college and with slight changes we can make the game to any number desired like 25x25 tables and so on.
